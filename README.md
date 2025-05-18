@@ -1,7 +1,7 @@
 <h1>Exp No 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 
-<h3>Name: SHAIK SAMREEN   </h3>
-<h3>Register Number: 212223110047     </h3>
+<h3>Name: PAVITHRA P   </h3>
+<h3>Register Number: 212223110035    </h3>
 
 <H3> Aim : </H3>
 <p>
